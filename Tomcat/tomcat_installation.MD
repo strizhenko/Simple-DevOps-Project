@@ -69,4 +69,3 @@ goto tomcat home directory and Add below users to conf/tomcat-users.xml file
 	<user username="tomcat" password="s3cret" roles="manager-gui"/>
    ```
 1. Restart serivce and try to login to tomcat application from the browser. This time it should be Successful
-
